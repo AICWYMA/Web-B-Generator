@@ -7,7 +7,7 @@ export default function Header() {
       <Link href="/" className="flex space-x-3">
         <Image
           alt="header text"
-          src="https://static.tildacdn.com/tild6165-3963-4136-a430-613261366361/AIC_Logo_Artboard_19.png"
+          src="/AIC_Logo_Artboard_19.png"
           className="sm:w-12 sm:h-12 w-8 h-8"
           width={32}
           height={32}
