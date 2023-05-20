@@ -9,8 +9,8 @@ export default function Header() {
           alt="header text"
           src="/AIC_Logo_Artboard_19.png"
           className="sm:w-12 sm:h-12 w-8 h-8"
-          width={32}
-          height={32}
+          width={60}
+          height={60}
         />
         <h1 className="sm:text-4xl text-2xl font-bold ml-2 tracking-tight">
           Expert Blog Post Generator
